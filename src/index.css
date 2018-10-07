@@ -1,8 +1,13 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: bitwise;
   background-color: black;
+  background-image: url('/backgroundtrans.jpg');
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
   height: 100%;
   width: 100%;
+  opacity: 1;
 }
