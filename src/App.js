@@ -18,6 +18,7 @@ class App extends Component {
 							loop
 						/>
 					</div>
+					<a href="https://www.youracclaim.com/badges/3eb63f53-5362-4bac-bc72-c4f5d97d339e/public_url"><img src="./qualifications.png" style={{width:90, height:'auto', objectFit:'contain',position:'absolute', top: 20, right: 20}}/></a>
 					<Links />
 				</div>
     	);
